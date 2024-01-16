@@ -27,3 +27,5 @@ Historia, tietotekniikka, tietokonepelit, lukeminen, hassun hauska huumori, yhte
 Seuraavaa linkkiä painamalla saa kuulema internetin rikki [Uskallatko painaa](https://www.google.fi/search?q=google)
 
 # **KIITTI KAUDESTA**
+
+##### ver 1.01
