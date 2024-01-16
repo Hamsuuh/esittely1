@@ -22,7 +22,7 @@ Historia, tietotekniikka, tietokonepelit, lukeminen, hassun hauska huumori, yhte
 4. Ötökän elämää
 5. Autot
 
-![Mangusteja](assets/images/mangusteja.jpg "Mangusteja")
+![Mangusteja](images/mangusteja.jpg "Mangusteja")
 
 ## **Totaalisen random asia**
 
@@ -30,4 +30,4 @@ Seuraavaa linkkiä painamalla saa kuulema internetin rikki [Uskallatko painaa](h
 
 # **KIITTI KAUDESTA**
 
-##### ver 1.03
+##### ver 1.05
