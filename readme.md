@@ -30,4 +30,4 @@ Seuraavaa linkkiä painamalla saa kuulema internetin rikki [Uskallatko painaa](h
 
 # **KIITTI KAUDESTA**
 
-##### ver 1.02
+##### ver 1.03
